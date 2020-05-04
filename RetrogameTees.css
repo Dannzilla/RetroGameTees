@@ -1,7 +1,7 @@
 /** HOMEPAGE **/
 
 body {
-    background-color: #999999;
+    background-color: #333;
     background-image: url(../images/body.jpg);
     background-size: 250px 250px;
     color: #333333;
@@ -64,3 +64,7 @@ a {
     border-color: #77C043;
     color: #fff;
   }
+
+  .note > img {
+
+}
