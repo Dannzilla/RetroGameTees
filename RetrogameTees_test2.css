@@ -10,9 +10,8 @@ and then <title> </title>
 
 body {
     background-color: #000000;
-    background-image: url(../images/body.jpg);
     background-size: 250px 250px;
-    color: #333333;
+    color: #000000;
     font-family: "Segoe WP", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 13px;
     font-weight: 400;
