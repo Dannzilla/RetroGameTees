@@ -9,9 +9,9 @@ and then <title> </title>
 /** HOMEPAGE **/
 
 body {
-    background-color: #000000;
+    background-color: 000000;
     background-size: 250px 250px;
-    color: #000000;
+    color: 000000;
     font-family: "Segoe WP", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 13px;
     font-weight: 400;
@@ -25,8 +25,13 @@ body {
     webkit-text-size-adjust: 100%;
 }
 
+subnavigation {
+        background:000000;
+}
+
+
 .item > figure var {
-    color: #77C043;
+    color: 77C043;
     font-style: normal;
     font-weight: 900;
     position: absolute;
@@ -35,7 +40,7 @@ body {
 }
 
 a {
-    color: #77C043;
+    color: 77C043;
     cursor: pointer;
     outline: 0;
     text-decoration: none;
@@ -45,11 +50,11 @@ a {
 /** Shirt Page **/
 
 .size_button.selected {
-    background-color: #77C043;
+    background-color: 77C043;
   }
 
   .tshirt .tshirtinfo .tshirtpriceinfo var {
-    color: #77C043;
+    color: 77C043;
     display: inline-block;
     font-family: "Segoe WP Semi Light", "Segoe UI Semi Light", "Segoe UI Web Semi Light", "Segoe WP", "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 34px;
